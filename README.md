@@ -4,7 +4,7 @@
 
 **Query Solana RPC with Python. No dependencies.**
 
-![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Dependencies: standard library](https://img.shields.io/badge/dependencies-standard_library-334155?style=flat-square) ![Mode: read only](https://img.shields.io/badge/mode-read_only-0F766E?style=flat-square)
+![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Dependencies: standard library](https://img.shields.io/badge/dependencies-standard_library-334155?style=flat-square) ![Mode: read only](https://img.shields.io/badge/mode-read_only-0F766E?style=flat-square) [![License: MIT](https://img.shields.io/badge/license-MIT-black?style=flat-square)](LICENSE)
 
 Read native SOL balances, SPL token mint supply, and RPC node status with a small CLI or importable Python functions.
 
@@ -131,6 +131,10 @@ Each project is an independent, read-only tool. Axiom and Fomo accounts are not 
 - [Solana JSON-RPC reference](https://solana.com/docs/rpc/http)
 - [getBalance](https://solana.com/docs/rpc/http/getbalance)
 - [getTokenSupply](https://solana.com/docs/rpc/http/gettokensupply)
+
+## License
+
+[MIT](LICENSE). Use it, change it and ship it, as long as the copyright notice stays in.
 
 ## Contributors wanted
 
